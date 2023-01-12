@@ -31,17 +31,9 @@
 
 5. Алгоритмы
 
-*Add post*
+*sifting function*
 
-![add]()
-
-*Delete post*
-
-![delete]()
-
-*Reaction*
-
-![Reaction]()
+![sifting](sifting.png)
 
 6. HTTP запросы/ответы
 
