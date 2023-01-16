@@ -39,25 +39,24 @@
 
 *Запрос*
 
-POST /lr_5/rand.php HTTP/1.1 <br>
+POST /coursework/config/mapdb.php HTTP/1.1 <br>
 Host: localhost <br>
-Accept: text/html, */*; q=0.01 <br>
+Accept: application/json, text/javascript, */*; q=0.01 <br>
 Content-Type: application/x-www-form-urlencoded; charset=UTF-8 <br>
 sec-ch-ua: "Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109" <br>
 sec-ch-ua-mobile: ?0 <br>
 sec-ch-ua-platform: "Windows" <br>
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 <br>
-X-KL-Ajax-Request: Ajax_Request <br>
 X-Requested-With: XMLHttpRequest <br>
 
 *Ответ*
 
 HTTP/1.1 200 OK <br>
 Connection: Keep-Alive <br>
-Content-Length: 0 <br>
+Content-Length: 368 <br>
 Content-Type: text/html; charset=UTF-8 <br>
-Date: Wed, 11 Jan 2023 21:00:15 GMT <br>
-Keep-Alive: timeout=120, max=1000 <br>
+Date: Mon, 16 Jan 2023 13:07:56 GMT <br>
+Keep-Alive: timeout=120, max=983 <br>
 Server: Apache <br>
 X-Content-Type-Options: nosniff <br>
 
